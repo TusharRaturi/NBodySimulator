@@ -6,8 +6,9 @@ This simulator simulates the gravtational forces on n bodies using the euler met
 
 Way to compile:-
 
-I used the CodeBlocks IDE for this project. It is recommended that the project be compiled through CodeBlocks. To compile some libraries must be included => libopengl32.a, libwinmm.a, libcomdlg32.a.
+I used the CodeBlocks IDE, Win32 api and OpenGL for this project. It is recommended that the project be compiled through CodeBlocks. To compile some libraries must be included => libopengl32.a, libwinmm.a, libcomdlg32.a.
 These libraries can be found with the default package of CodeBlocks(MinGW).
+
 Resources have been generated through ResEdit.
 
 Some more help:-
@@ -55,4 +56,6 @@ The exit option ---- do I need to tell what it will do (XD)
 
 The toolbar option in the window menu will hide and show the toolbar.
 
-The General help menu contains the same information (mostly copied :P)
+The music is from dl-sounds.com
+
+The General help menu contains the same information (mostly copied from above :P)
