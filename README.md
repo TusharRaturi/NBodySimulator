@@ -2,7 +2,7 @@
 
 Welcome to the N-Body Gravitational Simulator.
 
-This simulator simulates the gravtational forces on n bodies using the euler method for solving differential equations.
+This simulator simulates the gravitational forces on n bodies using the euler method for solving differential equations.
 
 Way to compile:-
 
@@ -28,10 +28,10 @@ This button will reset the simulation.
 The second button is Pause.
 This button can be used to pause and unpause the simulator.
 The next is the Trajectory checkbox.
-NOTE:-You can use the trajectory feature but it is recomended to be used when the simulator is paused.(When paused the simulator will show predictive trajectories of the
+NOTE:-You can use the trajectory feature but it is recommended to be used when the simulator is paused.(When paused the simulator will show predictive trajectories of the
 particles if the Trajectories checkbox is checked. When unpaused it would show realtime(dynamic) predictive - only when the LMB remains pressed - trajectory of the same but beware: the more the no. of particles, the more expensive the trajectory operation.)
 The next is the collision type. If you choose destroy then bodies will destroy after colliding. If you choose merge then bodies will merge after colliding.
-The merged bodies will have a new colour proportional to their masses and the momentum of the mearger is conserved. If you choose merge and destroy then same mass bodies will be destroyed and others will merge.
+The merged bodies will have a new colour proportional to their masses and the momentum of the merger is conserved. If you choose merge and destroy then same mass bodies will be destroyed and others will merge.
 
 The next is the units dropdown. Here you can set the units of the simulator. Available units are:-
 1nm = 10^-9m
@@ -49,7 +49,7 @@ The radius can be a minimum of 5.0 units and maximum of 200.0 units.
 These boxes, currently only support integers(no decimal points)
 The example of inputting mass and radius is given underneath the input fields of the toolbar.
 
-The next section contains the colour settings for a colourful simulation expierience. RED, GREEN and BLUE sliders - These colours can be used to form any colour.
+The next section contains the colour settings for a colourful simulation experience. RED, GREEN and BLUE sliders - These colours can be used to form any colour.
 
 You can save and load a simulation from the File menu options save and load.
 The exit option ---- do I need to tell what it will do (XD)
