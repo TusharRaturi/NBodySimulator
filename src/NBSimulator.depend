@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1479401564 source:d:\cb projects\nbsimulator\math\ptmath.c
+	"ptmath.h"
+
+1479401520 d:\cb projects\nbsimulator\math\ptmath.h
+
+1479401492 source:d:\cb projects\nbsimulator\math\vecmath.c
+	"vecmath.h"
+
+1479401555 d:\cb projects\nbsimulator\math\vecmath.h
+
+1478555429 source:d:\cb projects\nbsimulator\nbs.c
+	"NBS.h"
+
+1478484754 d:\cb projects\nbsimulator\nbs.h
+	"window/NBSWin.h"
+
+1479410249 d:\cb projects\nbsimulator\window\nbswin.h
+	<windowsx.h>
+	"../saveload/SaveLoad.h"
+	"../resources/resource.h"
+
+1478555467 source:d:\cb projects\nbsimulator\logger\logger.c
+	"Logger.h"
+
+1478555512 d:\cb projects\nbsimulator\logger\logger.h
+	"../window/NBSTimer.h"
+
+1477648518 source:d:\cb projects\nbsimulator\opengl\colour.c
+	"Colour.h"
+
+1477648474 d:\cb projects\nbsimulator\opengl\colour.h
+
+1479137005 source:d:\cb projects\nbsimulator\opengl\nbsgl.c
+	"NBSGL.h"
+
+1479136890 d:\cb projects\nbsimulator\opengl\nbsgl.h
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"../simulator/Sim.h"
+
+1479137083 d:\cb projects\nbsimulator\simulator\sim.h
+	"../physics/physics.h"
+	"../logger/Logger.h"
+	"../exceptionhandler/ExceptionHandle.h"
+
+1479410697 source:d:\cb projects\nbsimulator\simulator\sim.c
+	"Sim.h"
+
+1478436102 source:d:\cb projects\nbsimulator\window\nbstimer.c
+	"NBSTimer.h"
+
+1478288339 d:\cb projects\nbsimulator\window\nbstimer.h
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<winnt.h>
+	<time.h>
+
+1479410415 source:d:\cb projects\nbsimulator\window\nbswin.c
+	"NBSWin.h"
+
+1479142470 source:d:\cb projects\nbsimulator\physics\physics.c
+	"physics.h"
+
+1479410432 d:\cb projects\nbsimulator\physics\physics.h
+	<windows.h>
+	<math.h>
+	"../audio/music.h"
+	"../math/lnmath.h"
+	"../math/vecmath.h"
+	"../opengl/Colour.h"
+
+1477741166 d:\cb projects\nbsimulator\window\nbssplash.h
+	"..\opengl\NBSGL.h"
+	"../NBSResources.rc"
+	"../resource.h"
+
+1477737018 source:d:\cb projects\nbsimulator\nbsresources.rc
+
+1477739605 d:\cb projects\nbsimulator\nbsresources.rc
+
+1477739290 d:\cb projects\nbsimulator\nbsresources.h
+
+1478482810 d:\cb projects\nbsimulator\resource.h
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+
+1478482812 source:d:\cb projects\nbsimulator\resource.rc
+	"resource.h"
+
+1477742119 source:d:\cb projects\nbsimulator\window\nbssplash.c
+
+1478276747 source:d:\cb projects\nbsimulator\exceptionhandle.c
+	"ExceptionHandle.h"
+
+1478276729 d:\cb projects\nbsimulator\exceptionhandle.h
+	<windows.h>
+
+1478367255 source:d:\cb projects\nbsimulator\music.c
+	"music.h"
+
+1478351161 d:\cb projects\nbsimulator\music.h
+	<windef.h>
+	<mmsystem.h>
+
+1478443803 source:d:\cb projects\nbsimulator\lnmath.c
+	"lnmath.h"
+
+1478443765 d:\cb projects\nbsimulator\lnmath.h
+	"math/ptmath.h"
+
+1478550707 d:\cb projects\nbsimulator\saveload.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<wingdi.h>
+	<winuser.h>
+	<commdlg.h>
+	"opengl/NBSGL.h"
+
+1478550695 source:d:\cb projects\nbsimulator\saveload.c
+	"SaveLoad.h"
+
+1478367255 source:d:\cb projects\nbsimulator\audio\music.c
+	"music.h"
+
+1478351161 d:\cb projects\nbsimulator\audio\music.h
+	<windef.h>
+	<mmsystem.h>
+
+1478276747 source:d:\cb projects\nbsimulator\exceptionhandler\exceptionhandle.c
+	"ExceptionHandle.h"
+
+1478276729 d:\cb projects\nbsimulator\exceptionhandler\exceptionhandle.h
+	<windows.h>
+
+1479137952 source:d:\cb projects\nbsimulator\main\nbs.c
+	"NBS.h"
+
+1478781882 d:\cb projects\nbsimulator\main\nbs.h
+	"../window/NBSWin.h"
+
+1478557175 d:\cb projects\nbsimulator\saveload\saveload.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<wingdi.h>
+	<winuser.h>
+	<commdlg.h>
+	"../opengl/NBSGL.h"
+
+1478557223 d:\cb projects\nbsimulator\math\lnmath.h
+	"ptmath.h"
+
+1478889150 d:\cb projects\nbsimulator\resources\resource.h
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+
+1478443803 source:d:\cb projects\nbsimulator\math\lnmath.c
+	"lnmath.h"
+
+1478887902 source:d:\cb projects\nbsimulator\resources\resource.rc
+	"resource.h"
+
+1478550695 source:d:\cb projects\nbsimulator\saveload\saveload.c
+	"SaveLoad.h"
+
+1479660113 source:c:\users\tushar\desktop\nbsimulator\audio\music.c
+	"music.h"
+
+1479442720 c:\users\tushar\desktop\nbsimulator\audio\music.h
+	<windef.h>
+	<mmsystem.h>
+
+1478276748 source:c:\users\tushar\desktop\nbsimulator\exceptionhandler\exceptionhandle.c
+	"ExceptionHandle.h"
+
+1478276730 c:\users\tushar\desktop\nbsimulator\exceptionhandler\exceptionhandle.h
+	<windows.h>
+
+1478555468 source:c:\users\tushar\desktop\nbsimulator\logger\logger.c
+	"Logger.h"
+
+1478555514 c:\users\tushar\desktop\nbsimulator\logger\logger.h
+	"../window/NBSTimer.h"
+
+1478288340 c:\users\tushar\desktop\nbsimulator\window\nbstimer.h
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<winnt.h>
+	<time.h>
+
+1480964195 source:c:\users\tushar\desktop\nbsimulator\main\nbs.c
+	"NBS.h"
+
+1478781884 c:\users\tushar\desktop\nbsimulator\main\nbs.h
+	"../window/NBSWin.h"
+
+1479456299 c:\users\tushar\desktop\nbsimulator\window\nbswin.h
+	<windowsx.h>
+	"../saveload/SaveLoad.h"
+	"../resources/resource.h"
+
+1478557176 c:\users\tushar\desktop\nbsimulator\saveload\saveload.h
+	<stdio.h>
+	<stdarg.h>
+	<windef.h>
+	<wingdi.h>
+	<winuser.h>
+	<commdlg.h>
+	"../opengl/NBSGL.h"
+
+1480170248 c:\users\tushar\desktop\nbsimulator\opengl\nbsgl.h
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"../simulator/Sim.h"
+
+1480171217 c:\users\tushar\desktop\nbsimulator\simulator\sim.h
+	"../physics/physics.h"
+	"../logger/Logger.h"
+	"../exceptionhandler/ExceptionHandle.h"
+
+1479585719 c:\users\tushar\desktop\nbsimulator\physics\physics.h
+	<windows.h>
+	<math.h>
+	"../audio/music.h"
+	"../math/lnmath.h"
+	"../math/vecmath.h"
+	"../opengl/Colour.h"
+
+1478557224 c:\users\tushar\desktop\nbsimulator\math\lnmath.h
+	"ptmath.h"
+
+1479401522 c:\users\tushar\desktop\nbsimulator\math\ptmath.h
+
+1479401556 c:\users\tushar\desktop\nbsimulator\math\vecmath.h
+
+1477648476 c:\users\tushar\desktop\nbsimulator\opengl\colour.h
+
+1481356717 c:\users\tushar\desktop\nbsimulator\resources\resource.h
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+
+1478443804 source:c:\users\tushar\desktop\nbsimulator\math\lnmath.c
+	"lnmath.h"
+
+1479401566 source:c:\users\tushar\desktop\nbsimulator\math\ptmath.c
+	"ptmath.h"
+
+1479401494 source:c:\users\tushar\desktop\nbsimulator\math\vecmath.c
+	"vecmath.h"
+
+1477648520 source:c:\users\tushar\desktop\nbsimulator\opengl\colour.c
+	"Colour.h"
+
+1486014910 source:c:\users\tushar\desktop\nbsimulator\opengl\nbsgl.c
+	"NBSGL.h"
+
+1481356714 source:c:\users\tushar\desktop\nbsimulator\resources\resource.rc
+	"resource.h"
+
+1478550696 source:c:\users\tushar\desktop\nbsimulator\saveload\saveload.c
+	"SaveLoad.h"
+
+1480171204 source:c:\users\tushar\desktop\nbsimulator\simulator\sim.c
+	"Sim.h"
+
+1478436104 source:c:\users\tushar\desktop\nbsimulator\window\nbstimer.c
+	"NBSTimer.h"
+
+1480170835 source:c:\users\tushar\desktop\nbsimulator\window\nbswin.c
+	"NBSWin.h"
+
+1479923576 source:c:\users\tushar\desktop\nbsimulator\physics\physics.c
+	"physics.h"
+
